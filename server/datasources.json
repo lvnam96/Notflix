@@ -1,0 +1,11 @@
+{
+  "db": {
+    "host": "ds119345.mlab.com",
+    "port": "19345",
+    "database": "notflix",
+    "password": "notflix",
+    "name": "db",
+    "user": "notflix",
+    "connector": "mongodb"
+  }
+}
